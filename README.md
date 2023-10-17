@@ -2,29 +2,16 @@
 
 Create system messages for debugging or for full operation
 
-## Example
+# Example
 
 ```rust
 message_call("title", "description", MessageType::Ok);
 ```
 
-## Warning
+# Warning
 
 The library is under development, some functions may not work properly or may not work at all
 
-## Update
+# Update
 
 The project is updated frequently
-
-# Windows
-```
-Supported
-```
-# Linux
-```
-Coming Soon
-```
-# macOs
-```
-Coming Soon
-```
