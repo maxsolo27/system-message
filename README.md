@@ -16,8 +16,6 @@ The library is under development, some functions may not work properly or may no
 
 The project is updated frequently
 
-## Platform
-
 # Windows
 ```
 Supported
