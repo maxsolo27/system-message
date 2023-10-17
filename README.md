@@ -1,8 +1,8 @@
-## system-message
+# system-message
 
 Create system messages for debugging or for full operation
 
-# Example
+## Example
 
 ```rust
 message_call("title", "description", MessageType::Ok);
